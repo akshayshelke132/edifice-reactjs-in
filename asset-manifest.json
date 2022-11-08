@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/edifice-reactjs-in/static/css/main.406145a6.css",
+    "main.js": "/edifice-reactjs-in/static/js/main.ea2e1e9a.js",
+    "index.html": "/edifice-reactjs-in/index.html",
+    "main.406145a6.css.map": "/edifice-reactjs-in/static/css/main.406145a6.css.map",
+    "main.ea2e1e9a.js.map": "/edifice-reactjs-in/static/js/main.ea2e1e9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.406145a6.css",
+    "static/js/main.ea2e1e9a.js"
+  ]
+}
